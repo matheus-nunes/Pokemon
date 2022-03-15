@@ -1,0 +1,48 @@
+/*é uma regra pra quando chegar a um tamanho de regra, ele aplica um tamanho de tela. Caso chegue em outro tamanho, aplica outro tamnho */
+@media (max-width: 750px) {
+  /*quando chegar a 750px vai aplicar a seguinte regra*/
+  body {
+    font-size: 12px;
+  }
+  .pokedex {
+    flex-direction: column;
+    padding: 30px 0;
+  }
+  .cartao-pokemon {
+    max-width: 300px;
+  }
+  .cartao-pokemon .cartao-image {
+    width: 200px;
+    height: 200px;
+  }
+  .cartao-pokemon .cartao-informacoes {
+    width: 60px 30px 30px;
+    margin-top: -50px;
+  }
+  .cartao-pokemon .cartao-informacoes .informacoes {
+    display: flex;
+    justify-content: space-between;
+    padding: 0;
+  }
+  .cartao-pokemon .cartao-informacoes h3 {
+    font-size: 16px;
+  }
+  .listagem {
+    max-width: 300px;
+  }
+  .listagem ul {
+    display: flex;
+    gap: 18px;
+    flex-wrap: wrap;
+  }
+  .listagem .pokemon {
+    width: 140px;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    margin-bottom: 0;
+    border-radius: 8px;
+  }
+  .listagem .pokemon span {
+    padding-right: 5px;
+  }
+}
