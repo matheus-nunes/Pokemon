@@ -6,12 +6,16 @@
 Usar JavaScript e o DOM 
 <br></br>
 Neste porjeto foi utilizado JAVASCRIPT,CSS e HTML
-![image](https://user-images.githubusercontent.com/37475590/170113999-45397f13-6c4b-4a94-99a4-dd1a77a0bf7a.png)
 
-Utilizamos @media pra deixar responsivo
-Nav em Html
-Classlist em Javascript, entre várias outras propriedades pra efetuar a construção deste projeto
+Utilizamos @media pra deixar responsivo<br></br>
+Nav em Html<br></br>
+Classlist em Javascript,<br></br>
+entre várias outras propriedades pra efetuar a construção deste projeto
 <br></br>
 
 https://user-images.githubusercontent.com/37475590/167657253-92a5a5d7-e672-45ef-92a7-9c2a2da9ceac.mp4
 
+
+
+
+![image](https://user-images.githubusercontent.com/37475590/170114378-4098e4cb-03d0-4145-84b5-29d966fb7ee6.png)
